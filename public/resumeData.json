@@ -1,56 +1,45 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Jose Ángel Ael Talavera",
+    
+    "description":"Hello, I am a Linux systems administrator. Due to my interest in the new technologies, I have decided to focus my professional career on the DevOps culture with the goal of being a DevOps Engineer / SRE.",
+    
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+
+    "bio":"Me empecé a interesar en los ordenadores a los 13 años, debido a que mi tío era administrador de sistemas Linux. Tuve suerte porque en el instituto todos los ordenadores tenían un Linux instalado y mi profesor también era un apasionado por la informática. Recuerdo entrar a los equipos de mis compañeros por ssh, exportando la variable de DISPLAY a 0 para mostrar por pantalla ... algunas páginas ;). Todo esto despertó aún más mi interes, así que decidí estudiar informática.\nCuando estudiaba el CFGS, tuve la oportunidad de realizar las prácticas en STRSISTEMAS, donde pude administrar infraestructuras complemtamente automatizadas y utilizar tecnologías punteras como Docker, Kubernetes, Ansible... despertando mi interés en la cultura DevOps.\nActualmente me encuentro en formación como ingeniero de DevOps en GFT, avanzando proyectos personales y mejorando mi nivel de inglés",
+
+    "contactmessage":"Puedes encontrarme en:",
+    "email": "joseaeltala@outlook.es",
+    "phone": "+34 692 93 85 16",
+    "github":"https://github.com/joseaeltala/",
+    "project":"https://github.com/joseaeltala/mordiscos",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Albares de la Ribera 18",
+      "city":"Madrid",
+      "state":"España)",
+      "zip": "28025"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://blueclouds.es/resumes/joseaeltala",
+    "resumedownload":"https://blueclouds.es/resumes/joseaeltala/cv.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/joseaeltala/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/joseaeltala/",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Siempre me estoy formando en algo y jugando con nuevas tecnologías. Actualmente estoy ampliando mis conocimientos en base a este ROADMAP con cursos de Udemy, OpenWebinars, Platzi y las formaciones impartidas por mis compañeros en GFT.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
+        "school":"IES Leonardo Da Vinci",
+        "degree":"Grado medio",
         "graduated":"April 2017",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
