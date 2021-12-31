@@ -35,7 +35,7 @@ spec:
         who: joseaeltala
     spec:
       containers:
-      - image: "${IMAGE}"
+      - image: "registry.blueclouds.es/joseaeltala/resume:${BUILD_NUMBER}"
         imagePullPolicy: Always
         name: resumes-joseaeltala
         env:
