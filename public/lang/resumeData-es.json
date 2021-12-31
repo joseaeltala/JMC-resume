@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Jose Ángel Ael Talavera",
+    "description":"Hola, soy un administrador de sistemas Linux. Debido a mi interés en las nuevas tecnologías, he decidido centrar mi carrera profesional en la cultura DevOps, con el objetivo de ser un Ingeniero DevOps / SRE.",
+    "image":"600.jpeg",
+    "bio":"Me empecé a interesar en los ordenadores a los 13 años, debido a que mi tío era administrador de sistemas Linux. Tuve suerte porque en el instituto todos los ordenadores tenían un Linux instalado y mi profesor también era un apasionado por la informática. Recuerdo entrar a los equipos de mis compañeros por ssh, exportando la variable de DISPLAY a 0 para mostrar por pantalla ... algunas páginas ;). Todo esto despertó aún más mi interes, así que decidí estudiar informática.Cuando estudiaba el CFGS, tuve la oportunidad de realizar las prácticas en STRSISTEMAS, donde pude administrar infraestructuras complemtamente automatizadas y utilizar tecnologías punteras como Docker, Kubernetes, Ansible... despertando mi interés en la cultura DevOps.\nActualmente me encuentro en formación como ingeniero de DevOps en GFT, avanzando proyectos personales y mejorando mi nivel de inglés",
+    "nav": {
+      "home": "Home",
+      "about": "Acerca de mi",
+      "resume": "CV (Resume)",
+      "works": "Proyectos",
+      "contact": "Contacto"
+    },
+    "email": "joseaeltala@outlook.es",
+    "phone": "+34 692 93 85 16",
+    "github":"https://github.com/joseaeltala/",
+    "linkedin":"https://www.linkedin.com/in/joseaeltala/",
+    "address":{
+      "street":"",
+      "city":"Madrid",
+      "state":"España",
+      "zip": "28025"
+    },
+    "website": "https://blueclouds.es",
+    "resumedownload":"cv/CV - JOSE ANGEL AEL TALAVERA.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joseaeltala/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/joseaeltala/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Siempre me estoy formando en algo y jugando con nuevas tecnologías. Actualmente estoy ampliando mis conocimientos en base a este <a href=\"https://roadmap.sh/devops\">ROADMAP</a> con cursos de Udemy, OpenWebinars, Platzi y las formaciones impartidas por mis compañeros en GFT.",
+    "education":[
+      {
+        "school":"IES Leonardo Da Vinci",
+        "degree":"Grado medio en Sistemas microinformáticos y redes",
+        "graduated":"Junio 2019",
+        "description":"Graduado con menciones honoríficas en: \n- Sistemas operativos en red \n- Servicios en red \n- Aplicaciones web."
+      },
+      {
+        "school":"",
+        "degree":"Grado superior en Administración de sistemas informáticos y redes (ASIR)",
+        "graduated":"Junio 2020",
+        "description":"Graduado con mención honorífica en el proyecto de fin de ciclo, al cual lo he llamado \"Mordiscos\"(mencionado más abajo) y tambien en: \n- Implantación de sistemas operativos \n- Servicios en red e internet\n- Seguridad y alta disponibilidad."
+      }
+    ],
+    "work":[
+      {
+        "company":"GFT Technologies",
+        "title":"DevOps Engineer",
+        "years":"Nov 2021 - actualidad",
+        "description":"Estoy en un proyecto formativo en el que estoy profundizando en las distintas herramientas de DevOps, como:\n- Jenkins\n- Kubernetes\n- Openshift 4\n- Docker\n- Maven\n- Terraform"
+      },
+      {
+        "company":"STR SISTEMAS",
+        "title":"Administrador de sistemas Linux",
+        "years":"Abril 2021 - Junio 2021",
+        "description":"Daba soporte de nivel 1 a las incidencias/peticiones de los clientes y monitorizaba cualquier posible fallo de los sistemas mediante el sistema de monitorización \nNagios\".\n\nTodas las infraestructuras de los distintos clientes estaban completamente automatizadas con la herramienta de orquestación \"Ansible\", por lo que había que hacer uso de ésta para cualquier modificación. Estas infraestructuras estaban montadas en diferentes clouds:\n- AWS\n- Azure\n- OVH\n- GCP"
+      },
+      {
+        "company":"Plexus Tech",
+        "title":"Técnico microinformático",
+        "years":"Julio 2019 - Diciembre 2019",
+        "description":"Daba soporte técnico solucionando incidencias, tanto hardware como software, a los usuarios de la oficina.\n\nPlataformaba equipos para el personal. Les instalaba y configuraba el sistema operativo, software y drivers necesarios y verificaba que las GPO dentro del dominio se estuviesen aplicando correctamente, en base al proyecto que iba destinado el equipo.\n\nTambién ayudaba a formar a los nuevos compañeros de equipo en la parte de campo, dándoles también soporte remoto y, a veces, acudir con ellos a cliente al haber tenido experiencia previa con los susodichos."
+      },
+      {
+        "company":"",
+        "title":"Técnico microinformático de campo",
+        "years":"Marzo 2019 - Junio 2019",
+        "description":"Resolvía incidencias, tanto hardware como software, de clientes \"in situ\" a través de la herramienta de ticketing \"Remedy\""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Linux",
+        "level":"85%"
+      },
+      {
+        "name":"Docker",
+        "level":"85%"
+      },
+      {
+        "name":"Kubernetes",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"85%"
+      },
+      {
+        "name":"Puppet",
+        "level":"65%"
+      },
+      {
+        "name":"Ansible",
+        "level":"85%"
+      },
+      {
+        "name":"Jenkins",
+        "level":"30%"
+      },
+      {
+        "name":"AWS",
+        "level":"60%"
+      },
+      {
+        "name":"Azure",
+        "level":"50%"
+      },      
+      {
+        "name":"GCP",
+        "level":"30%"
+      },
+      {
+        "name":"OpenStack",
+        "level":"75%"
+      },     
+      {
+        "name":"Hardware",
+        "level":"90%"
+      },      
+      {
+        "name":"MikroTik",
+        "level":"70%"
+      },
+      {
+        "name":"Nagios",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mordiscos",
+        "category":"Mi proyecto de fin de ciclo en el CFGS",
+        "image":"01.jpg",
+        "url":"https://github.com/joseaeltala/mordiscos"
+      }
+    ]
+  }
+}
